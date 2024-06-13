@@ -11,9 +11,9 @@ int main()
     int first = 0;
     int second = 1;
     int i = 0;
-    int k;
+    bool searchelement =
 
-    while (i <= n)
+        while (i <= n)
     {
         cout << first << " ";
         if (pos == i)
